@@ -5,6 +5,4 @@
 
 - 📫 How to reach me **endrit.blakcori1@student.uni-pr.edu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
